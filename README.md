@@ -1,4 +1,4 @@
-# GrocerEase
+GrocerEase
 
 This project is a simple shopping list website. Made with the idea of making the user's shopping more efficient and organised.
 
